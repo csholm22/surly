@@ -1,11 +1,11 @@
-Code Name: 
-# Project Surly
 
-## What it does
-It tracks how much alcohol the user has consumed
+# Project Surly aka *BEERz*
 
-It calculates your estimated blood alcohol level based on the following formula.
+### What it does
+1. It tracks how much alcohol the user has consumed
 
-Notifies the user when they have had too much to drink.
+2. It calculates your estimated blood alcohol level based on the following formula.
 
-Reminds the user of the dangers of drinking and driving.
+3. Notifies the user when they have had too much to drink.
+
+4. Reminds the user of the dangers of drinking and driving.
